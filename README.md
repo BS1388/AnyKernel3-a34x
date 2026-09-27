@@ -59,7 +59,6 @@ zip -r9 AnyKernel3-a34x.zip * -x .git README.md *placeholder
 - [osm0sis](https://github.com/osm0sis) — AnyKernel3
 - [topjohnwu](https://github.com/topjohnwu) — magiskboot / Magisk
 - KernelSU team
-- UN1CA — MediaTek common kernel base
 - AOSP — common kernel
 
 ---
