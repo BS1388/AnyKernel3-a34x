@@ -14,7 +14,7 @@ All models share the same **MediaTek Dimensity 1080** chipset, so the kernel bin
 
 **Device codename:** `a34x`
 **Chipset:** MediaTek Dimensity 1080 (6nm)
-**Base:** Android 15, kernel 6.6.142
+**Base:** Android 15, kernel 6.6.XXX
 
 ---
 
