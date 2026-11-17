@@ -1,4 +1,4 @@
-# a34x_Kernel
+# a34x Kernel
 
 Custom kernel for the Samsung Galaxy A34 5G, built on kernel-6.6 with an AOSP common kernel base (`android15-6.6`) and built-in KernelSU support.
 
